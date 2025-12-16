@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ```javascript
 const arold = {
-    location: "Manila, Philippines 🇵🇭",
+    location: "Bangued, Abra",
     code: ["HTML", "CSS", "JavaScript", "Python"],
     currentFocus: "Web Development & Design",
     funFact: "I debug with console.log() 🐛"

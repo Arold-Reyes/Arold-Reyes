@@ -30,11 +30,11 @@ const arold = {
 ```
 
 - 🔭 I'm currently working on web development projects
-- 🌱 I'm currently learning advanced JavaScript
+- 🌱 I'm currently learning advanced Web Dev.
 - 👯 I'm looking to collaborate on open-source projects
 - 💬 Ask me about web development
 - 📫 How to reach me: reyes.arold.92
-- ⚡ Fun fact: I love coding and gaming!
+- ⚡ Fun fact: I love gaming!
 
 ---
 

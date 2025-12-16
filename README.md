@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 # 👨‍💻 Arold Reyes
 
-### Full Stack Developer | Creative Coder | Tech Enthusiast
+### Learning More | Creative
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Building+amazing+projects;Always+learning+new+things)](https://git.io/typing-svg)
 
